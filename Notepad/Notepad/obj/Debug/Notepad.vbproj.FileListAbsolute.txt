@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\ASUS\Desktop\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\ASUS\Desktop\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\ASUS\Desktop\Notepad\Notepad\bin\Debug\Notepad.xml
+C:\Users\ASUS\Desktop\Notepad\Notepad\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ASUS\Desktop\Notepad\Notepad\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\ASUS\Desktop\Notepad\Notepad\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ASUS\Desktop\Notepad\Notepad\obj\Debug\Notepad.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\ASUS\Desktop\Notepad\Notepad\obj\Debug\Notepad.xml
+C:\Users\ASUS\Desktop\Notepad\Notepad\obj\Debug\Notepad.pdb
